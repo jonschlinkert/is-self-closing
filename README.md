@@ -25,6 +25,11 @@ console.log(isSelfClosing('foo'));
 
 ## About
 
+### Related projects
+
+* [html-tag](https://www.npmjs.com/package/html-tag): Generate HTML elements from a javascript object. | [homepage](https://github.com/jonschlinkert/html-tag "Generate HTML elements from a javascript object.")
+* [self-closing-tags](https://www.npmjs.com/package/self-closing-tags): HTML void elements are not the only self-closing tags. This includes common SVG self-closing elements… [more](https://github.com/jonschlinkert/self-closing-tags) | [homepage](https://github.com/jonschlinkert/self-closing-tags "HTML void elements are not the only self-closing tags. This includes common SVG self-closing elements as well.")
+
 ### Contributing
 
 Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](../../issues/new).
