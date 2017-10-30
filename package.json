@@ -1,7 +1,7 @@
 {
   "name": "is-self-closing",
   "description": "Returns true if the given name is a HTML void element or common SVG self-closing element.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/jonschlinkert/is-self-closing",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "repository": "jonschlinkert/is-self-closing",
