@@ -14,23 +14,32 @@
   ],
   "main": "index.js",
   "engines": {
-    "node": ">=4"
+    "node": ">=0.12.0"
   },
   "scripts": {
     "test": "mocha"
   },
-  "keywords": [
-    "closing",
-    "is",
-    "self"
-  ],
+  "dependencies": {
+    "self-closing-tags": "^1.0.1"
+  },
   "devDependencies": {
-    "gulp-format-md": "^0.1.11",
+    "gulp-format-md": "^1.0.0",
     "mocha": "^3.2.0"
   },
-  "dependencies": {
-    "self-closing-tags": "^0.1.0"
-  },
+  "keywords": [
+    "closing",
+    "element",
+    "elements",
+    "html",
+    "is",
+    "self",
+    "self-closing",
+    "svg",
+    "tag",
+    "tags",
+    "void",
+    "xml"
+  ],
   "verb": {
     "toc": false,
     "layout": "default",
@@ -42,14 +51,13 @@
     ],
     "related": {
       "list": [
-        "self-closing-tags",
-        "html-tag"
+        "breakdance",
+        "html-tag",
+        "html-toc",
+        "remarkable",
+        "self-closing-tags"
       ]
     },
-    "reflinks": [
-      "verb",
-      "verb-generate-readme"
-    ],
     "lint": {
       "reflinks": true
     }
